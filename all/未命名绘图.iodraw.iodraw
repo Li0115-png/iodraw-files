@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="VVeq3xd5wjDdqTUZDb6g">
-    <mxGraphModel dx="1389" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="695" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,7 +21,7 @@
           <mxGeometry x="450" y="150" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jRihnLfM3AwKatMqZfQd-26" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;G1&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;OIpvVnABZ2LzwPGe9tby&quot; size=&quot;3&quot;&gt;机械系统失效&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="246" y="310" width="74" height="70" as="geometry" />
+          <mxGeometry x="246" y="310" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jRihnLfM3AwKatMqZfQd-27" value="G2&lt;div&gt;控制系统失效&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="645.05" y="310" width="90" height="70" as="geometry" />
