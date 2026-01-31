@@ -16,12 +16,13 @@
         <mxCell id="jRihnLfM3AwKatMqZfQd-4" value="state 1&lt;div&gt;Rope Resonance&lt;/div&gt;&lt;div&gt;(60% Capacity)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="150" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jRihnLfM3AwKatMqZfQd-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="jRihnLfM3AwKatMqZfQd-18" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.978;exitY=0.264;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.218;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jRihnLfM3AwKatMqZfQd-1" target="jRihnLfM3AwKatMqZfQd-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="410" as="sourcePoint" />
             <mxPoint x="600" y="360" as="targetPoint" />
             <Array as="points">
               <mxPoint x="600" y="410" />
+              <mxPoint x="560" y="410" />
               <mxPoint x="660" y="490" />
               <mxPoint x="550" y="360" />
             </Array>
