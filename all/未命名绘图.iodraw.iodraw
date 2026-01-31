@@ -177,10 +177,10 @@
         <mxCell id="jRihnLfM3AwKatMqZfQd-67" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;E2&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;h76W2N2u3lcQ5anwwdXI&quot;&gt;陨石撞击&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="730" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jRihnLfM3AwKatMqZfQd-68" value="E3&lt;div&gt;热应力损伤&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jRihnLfM3AwKatMqZfQd-68" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;E3&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;O81g29m80WjuPZk5gMIM&quot;&gt;热应力损伤&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="730" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jRihnLfM3AwKatMqZfQd-69" value="E4&lt;div&gt;电机故障&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jRihnLfM3AwKatMqZfQd-69" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;E4&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;L9uvQ4kvFxJFsUXNnaYB&quot;&gt;电机故障&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="306" y="730" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jRihnLfM3AwKatMqZfQd-70" value="E5&lt;div&gt;控制失效&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
