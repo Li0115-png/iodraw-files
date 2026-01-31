@@ -61,9 +61,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jRihnLfM3AwKatMqZfQd-35" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.549;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="jRihnLfM3AwKatMqZfQd-78">
+        <mxCell id="jRihnLfM3AwKatMqZfQd-35" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="800" y="530" as="targetPoint" />
+            <mxPoint x="829" y="540" as="targetPoint" />
             <mxPoint x="710.05" y="480" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="710" y="500" />
@@ -199,7 +199,7 @@
           <mxGeometry x="645.05" y="530" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jRihnLfM3AwKatMqZfQd-78" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="550" width="90" height="70" as="geometry" />
+          <mxGeometry x="790" y="540" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
