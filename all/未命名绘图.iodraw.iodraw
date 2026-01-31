@@ -20,14 +20,13 @@
         <mxCell id="jRihnLfM3AwKatMqZfQd-20" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;size=40;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="450" y="150" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jRihnLfM3AwKatMqZfQd-25" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="jRihnLfM3AwKatMqZfQd-25" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="jRihnLfM3AwKatMqZfQd-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="300" as="targetPoint" />
             <mxPoint x="514.97" y="200" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="515" y="260" />
-              <mxPoint x="620" y="260" />
-              <mxPoint x="620" y="300" />
+              <mxPoint x="515" y="250" />
+              <mxPoint x="690" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
